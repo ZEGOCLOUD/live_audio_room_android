@@ -52,3 +52,4 @@ if __name__ == "__main__":
             key_center_helper.prepare_key_center_file()
         else:
             print("Ignore key center file update.")
+    print("Configuration is complete!")
